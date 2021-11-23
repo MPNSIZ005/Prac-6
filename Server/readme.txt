@@ -1,0 +1,2 @@
+only folder necessary is tcpserver, has the source code for both the tcp server and the 
+web interface. 
